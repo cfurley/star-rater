@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="star-rater/star-rater.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
